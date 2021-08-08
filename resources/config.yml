@@ -1,0 +1,24 @@
+menus:
+  0:
+    title: Example title 0
+    slots: 1
+    items:
+      0:
+        material: diamond_sword
+        name: §aLobby
+        slot: 0
+        command: /menu 1
+      1:
+        material: nether_star
+        name: §aLobby Selector
+        slot: 1
+        command: /menu 1
+  1:
+    title: Example title 1
+    slots: 3
+    items:
+      3:
+        material: stone
+        name: §aMain
+        slot: 15
+        command: /menu 0

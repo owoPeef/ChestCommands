@@ -1,0 +1,7 @@
+name: owoChestCommands
+main: ru.owopeef.owochestcommands.Main
+version: 1.0
+commands:
+  menu:
+    description: Open custom menu.
+    usage: /<command>
